@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/btrout/code/hugo-mounts'
+let g:netrw_dirhist_3='/Users/btrout/.config/nvim'
+let g:netrw_dirhist_2='/Users/btrout/.config/nvim/colors'
+let g:netrw_dirhist_1='/Users/btrout/code/hugo-mounts'
+let g:netrw_dirhist_0='/Users/btrout/code/hugo-mounts/data'
+let g:netrw_dirhist_9='/Users/btrout/code/hugo-mounts'
+let g:netrw_dirhist_8='/Users/btrout/code/hugo-mounts/content'
+let g:netrw_dirhist_7='/Users/btrout/code/hugo-mounts'
+let g:netrw_dirhist_6='/Users/btrout/code'
+let g:netrw_dirhist_5='/Users/btrout'
